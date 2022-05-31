@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projetos/IGTI/BootcampDesenvolvedorMobileAndroid/AulasPraticas/AulaCapitulo2/MVVMexemplo/app/src/main/res/drawable/baseline_delete_24.xml" value="0.226" />
+        <entry key="..\:/Projetos/IGTI/BootcampDesenvolvedorMobileAndroid/AulasPraticas/AulaCapitulo2/MVVMexemplo/app/src/main/res/layout/activity_main.xml" value="0.2015625" />
+        <entry key="..\:/Projetos/IGTI/BootcampDesenvolvedorMobileAndroid/AulasPraticas/AulaCapitulo2/MVVMexemplo/app/src/main/res/layout/item.xml" value="0.4519464720194647" />
+        <entry key="..\:/Projetos/IGTI/BootcampDesenvolvedorMobileAndroid/AulasPraticas/MVVMexemplo/app/src/main/res/drawable/baseline_delete_24.xml" value="0.196" />
+        <entry key="..\:/Projetos/IGTI/BootcampDesenvolvedorMobileAndroid/AulasPraticas/MVVMexemplo/app/src/main/res/layout/item.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
